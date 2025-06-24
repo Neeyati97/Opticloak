@@ -49,6 +49,6 @@ This project implements a fun and fascinating Invisible Cloak effect using Pytho
 - Real-time webcam frame manipulation
 
 **✅ To Do**
- Add GUI with streamlit or tkinter
- Support multiple cloak colors
- Record invisibility effect
+ - Add GUI with streamlit or tkinter
+ - Support multiple cloak colors
+ - Record invisibility effect
